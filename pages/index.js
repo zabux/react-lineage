@@ -23,8 +23,8 @@ const Index = () => {
         <div className="hero_content">
           <div className="container">
             <div className="content">
-              <h2 className="fn_title" title="Neoh">
-                Neoh
+              <h2 className="fn_title" title="Lineage 2">
+                Lineage 2
               </h2>
               <p className="fn_desc fn_animated_text">
                 The collection built by and runby codeefly. Together we are
