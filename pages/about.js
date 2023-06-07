@@ -16,20 +16,14 @@ const About = () => {
               </div>
               <div className="content_item">
                 <div className="neoh_fn_title" data-align="left">
-                  <h3 className="fn_title">The Rise of Neoh</h3>
+                  <h3 className="fn_title">Enter the lore of Lineage II</h3>
                   <div className="line">
                     <span />
                   </div>
                 </div>
                 <div className="desc">
                   <p>
-                    As the first hero of the Neoh Universe, collection has over
-                    9,999 unique skins drawn from the different missions and
-                    challenges he faced throughout his life.
-                  </p>
-                  <p>
-                    The artwork has been hand-drawned by Robert Green in the
-                    traditional anime style and composited by Layla Efiyo.
+                    In a world of two major continents, three empires wage wars for dominations. As a warrior, you must pledge your allegiance and fend off enemies from multiple directions in this ultimate battle royale. It is your time to step into the spotlight and enforce your will in the universe. Fight for your destiny and have your name immortalized in the annals of history of Lineage II
                   </p>
                 </div>
                 <div className="buttons">
