@@ -27,8 +27,7 @@ const Index = () => {
                 Lineage 2
               </h2>
               <p className="fn_desc fn_animated_text">
-                The collection built by and runby codeefly. Together we are
-                strong than ever.
+                Experience the role of a legendary warrior who is seeking his place in the battlefield! Lineage II brings you an unforgettable MMORPG experience in the vast world of Aden where you can determine your own destiny. Prepare yourself for a thrill ride when you engage in colossal PvP battles, join epic raids, build your own alliances, and raise your pets and mount them as you travel the magnificent universe of Lineage II.
               </p>
             </div>
           </div>
